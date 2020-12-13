@@ -1,5 +1,5 @@
 import React from "react";
-import Rating from "../Common/Rating";
+import Rating from "../common/Rating";
 import { Link } from "react-router-dom";
 
 export default function ProductCard(props) {

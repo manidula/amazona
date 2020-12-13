@@ -1,6 +1,6 @@
-import ProductScreen from "./component/ProductPage/ProductScreen";
-import HomeScreen from "./component/HomePage/HomeScreen";
-import { Link, Route, Switch, BrowserRouter as Router } from "react-router-dom";
+import ProductScreen from "./component/productPage/ProductScreen";
+import HomeScreen from "./component/homePage/HomeScreen";
+import { Link, Route, Switch } from "react-router-dom";
 
 function App() {
   return (
