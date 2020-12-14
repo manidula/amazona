@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Product from "./ProductCard";
 import LoadingBox from "../common/LoadingBox";
 import MessageBox from "../common/MessageBox";
-import { ListProduct } from "../actions/ProductActions";
+import { ListProduct } from "../../actions/ProductActions";
 import { useSelector, useDispatch } from "react-redux";
 
 export default function HomeScreen() {
